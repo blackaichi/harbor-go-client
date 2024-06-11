@@ -1,4 +1,4 @@
-module github.com/goharbor/go-client
+module github.com/blackaichi/harbor-go-client
 
 go 1.17
 
